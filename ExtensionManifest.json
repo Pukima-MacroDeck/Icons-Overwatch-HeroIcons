@@ -5,5 +5,5 @@
    "repository" : "https://github.com/Pukima-MacroDeck/Icons-Overwatch-HeroIcons",
    "packageId" : "Pukima.Overwatch.HeroIcons",
    "version" : "1.0.0",
-   "target-plugin-api-version" : 36,
+   "target-plugin-api-version" : 36
 }
